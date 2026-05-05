@@ -110,7 +110,7 @@ func testTuplesExample() throws{
         print("function called!!!!")
     }
 
-    func addNumberRetunr(num1:Int,num2:Int) -> Int{
+    func addNumberRetunr(num1:Int,num2:Int) -> Int{ // this will return addition
         return num1+num2
     }
     
